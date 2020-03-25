@@ -1,6 +1,6 @@
 # Računarske mreže | Computer Networks
 
-> Materijal koji značajno olakšava spremanje pismenog dela ispita.
+> Materijal koji olakšava spremanje pismenog dela ispita.
 
 Komentarisanje zvaničnih `.pdf` prezentacija je moguće nakon što ih [otključate](https://smallpdf.com/unlock-pdf/).
 
